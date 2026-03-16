@@ -1,16 +1,7 @@
 
 
- 
-
-
-
-
-BÜYÜK DİL MODELLERİ DERSİ
-
 
 Cyber-LLM Tehdit Analiz Platformu Projesi
-
-
 
 Hazırlayan : Elif Ece İŞÇİ 
 
@@ -155,7 +146,6 @@ Donanım Ölçekleme: NVIDIA H100 veya A100 gibi yüksek kapasiteli GPU'lar kull
 Fine-Tuning: Modele özel siber güvenlik veri setleriyle "İnce Ayar" yapılarak teknik jargon başarısı artırılacaktır.
 RAG Entegrasyonu: Bu projeye güncel CVE (açıklık) veritabanları modele bağlanarak modelin dünya üzerindeki en yeni saldırılardan anında haberdar olması sağlanacaktır.
 Groq API Entegrasyonu: Bu entegrasyonu sağlayarak kısıtlı bilgisayar donanımı yerine Groq bulutundaki devasa GPU'larda çok daha hızlı bir şekilde çalıştırılabilir.
-
 
 7. Sonuç
 Bu çalışma, sınırlı veri koşullarında dahi siber tehdit seviyelerinin makine öğrenmesi ile sınıflandırılabileceğini göstermiştir. Model, özellikle kritik tehditlerin tespiti açısından tatmin edici sonuçlar üretmiştir. Geliştirilebilir mimarisi sayesinde proje, ileri seviye siber güvenlik karar destek sistemlerine temel oluşturabilecek niteliktedir.
