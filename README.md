@@ -12,10 +12,8 @@ Cyber-LLM Tehdit Analiz Platformu Projesi
 
 
 
-
-Öğretim üyesi : Dr.Murat ŞİMŞEK
 Hazırlayan : Elif Ece İŞÇİ 
-Numarası : 220212008
+
 
 1. Proje Özeti
 Günümüz siber güvenlik ekosisteminde, saniyeler içerisinde binlerce log verisi üretilmektedir. Bir güvenlik analistinin bu ham verileri (IP adresleri, port bilgileri, hata kodları) manuel olarak inceleyip anlamlı bir saldırı raporuna dönüştürmesi zaman ve kaynak açısından verimsizdir.
